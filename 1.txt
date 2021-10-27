@@ -1,4 +1,7 @@
 this text file
 before merging the feature branch
 this is for merge conflict
-testing
+conflict 
+this is for testing
+after merge conflict solve
+new testing
