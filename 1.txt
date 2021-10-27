@@ -1,0 +1,3 @@
+this text file
+before merging the feature branch
+this is for merge conflict
